@@ -1,0 +1,6 @@
+PROGRAM Square
+    INTEGER :: num, result
+    num = 5
+    result = num * num
+    PRINT *, "Square:", result
+END PROGRAM Square
